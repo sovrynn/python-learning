@@ -1,5 +1,5 @@
 # Day 2
 
 Topics to cover:
-- Boolean operators
-- Control flow
+- Logical operators
+- Control flow (if, loops)
