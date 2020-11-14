@@ -21,9 +21,9 @@ c = a + b
 d = 4 * a
 
 # Indexing strings
-e = a[0]
-f = a[len(a) - 1]
-g = a[-1]
+e = a[0]  # First character of a
+f = a[len(a) - 1]  # Last character of a
+g = a[-1]  # Does this throw an error?
 
 # Substrings
 h = a[1:len(a) - 1]
