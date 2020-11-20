@@ -17,14 +17,14 @@ printWholeNumbersUpTo(-1)
 
 """
 Should print:
-1 2 3
+0 1 2 3
 """
 printWholeNumbersUpTo(3)
 
 """
 Should print:
-1 2 3 4
-5 6 7 8
-9 10
+0 1 2 3
+4 5 6 7
+8 9 10
 """
 printWholeNumbersUpTo(10)
