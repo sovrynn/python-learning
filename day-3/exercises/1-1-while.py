@@ -1,14 +1,23 @@
-def sumOfNumbersBetween(lo, hi):
+def printWholeNumbersUpTo(x):
     """
-    Implement this using a while loop.
-    Parameters: numbers lo, hi
-    Returns: sum of the numbers from lo to hi (inclusive)
+    Implement this function using a while loop.
+    Parameters: number x
+    Returns: print out the whole numbers starting from 0 and going to x (inclusive)
     """
     # Start of your code
-    return 0
+
     # End of your code
 
 
-assert sumOfNumbersBetween(0, 0) == 0
-assert sumOfNumbersBetween(0, 5) == 15
-print('Tests passed!')
+print('Check the output to see if it\'s correct')
+
+"""
+Should print:
+0
+1
+2
+3
+4
+5
+"""
+printWholeNumbersUpTo(5)
