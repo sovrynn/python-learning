@@ -9,4 +9,13 @@ def printNumbersBetween(lo, hi):
 
 
 print('Check the output to see if it\'s correct')
+
+"""
+Should print:
+1
+2
+3
+4
+5
+"""
 printNumbersBetween(1, 5)

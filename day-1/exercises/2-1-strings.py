@@ -1,7 +1,7 @@
 def twoS1fourS2(s1, s2):
     """
     Parameters: two strings s1 and s2
-    Returns: a string that has two copies of s2 followed by four copies of s2
+    Returns: a string that has two copies of s1 followed by four copies of s2
     """
     # Start of your code
     return ''
