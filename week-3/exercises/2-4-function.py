@@ -1,8 +1,7 @@
 """
-Define a function listNaturalNumbersTo() that takes a number and
-    returns a list with numbers from 1 to the number (inclusive).
-
-What should the function return if the number is not positive?
+Define a function listNaturalNumbersTo():
+    Parameters: a number
+    Returns: a list containing numbers from 1 to the number (inclusive)
 """
 
 

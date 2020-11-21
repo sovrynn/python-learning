@@ -1,6 +1,6 @@
 def sumOfNumbersBetween(lo, hi):
     """
-    Implement this using a while loop.
+    Implement this function using a while loop.
     Parameters: numbers lo, hi
     Returns: sum of the numbers from lo to hi (inclusive)
     """

@@ -9,7 +9,7 @@ def printNumbersBetween(lo, hi):
     # End of your code
 
 
-print('Check the output to see if it\'s correct')
+print('Check the output to see if it is correct:')
 
 """
 Should print:

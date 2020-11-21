@@ -1,14 +1,15 @@
 def printNumbersBetween(lo, hi):
     """
     Parameters: numbers lo, hi
-    Returns: print out each number from lo to hi (inclusive)
+    Side Effect: print out each number from lo to hi (inclusive) on its own line
+    Returns: N/A
     """
     # Start of your code
 
     # End of your code
 
 
-print('Check the output to see if it\'s correct')
+print('Check the output to see if it is correct:')
 
 """
 Should print:
