@@ -2,7 +2,8 @@ def printNumbersBetween(lo, hi):
     """
     Implement this function using a while loop.
     Parameters: numbers lo, hi
-    Returns: print out each number from lo to hi (inclusive)
+    Side Effect: print out each number from lo to hi (inclusive)
+    Returns: N/A
     """
     # Start of your code
     return 0
