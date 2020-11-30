@@ -10,10 +10,8 @@ def printNumbersBetween(lo, hi):
     # End of your code
 
 
-print('Check the output to see if it is correct:')
-
 """
-Should print:
+Expected output:
 3
 4
 5

@@ -9,10 +9,8 @@ def printHelloWorld(x):
     # End of your code
 
 
-print('Check the output to see if it is correct:')
-
 """
-Should print:
+Expected output:
 Hello World
 Hello World
 Hello World
