@@ -10,5 +10,5 @@ Define a function compareLengths():
 
 assert compareLengths('a', 'b') == 'equal'
 assert compareLengths('abc', 'a') == 'greater'
-assert compareLengths('a', 'abc') == 'lesser'
+assert compareLengths('a', 'abc') == 'smaller'
 print('Tests passed!')

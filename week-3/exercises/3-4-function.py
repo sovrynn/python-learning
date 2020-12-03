@@ -6,6 +6,6 @@ Define a function equalLength():
 
 
 assert equalLength('a', 'a')
-assert equalLength('abc', 'abc')
+assert equalLength('abc', '123')
 assert not equalLength('a', 'abc')
 print('Tests passed!')
