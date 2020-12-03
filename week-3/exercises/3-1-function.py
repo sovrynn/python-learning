@@ -1,11 +1,16 @@
-"""
-Define a function greaterThanFive():
-    Parameters: a number
-    Returns: True if the number is strictly greater than five, False otherwise
-"""
+import util.test as test
 
 
-assert not greaterThanFive(1)
-assert not greaterThanFive(5)
-assert greaterThanFive(6)
-print('Tests passed!')
+"""
+Define a function greater_than_five():
+    Parameters: an integer
+    Returns: True if the integer is strictly greater than five, False otherwise
+"""
+# Start of your code
+
+# End of your code
+
+
+test.test_equals(greater_than_five(1), False)
+test.test_equals(greater_than_five(5), False)
+test.test_equals(greater_than_five(6), True)

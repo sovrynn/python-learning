@@ -1,17 +1,19 @@
-def onlyOneIsTrue(a, b):
+import util.test as test
+
+
+def only_one_is_true(a, b):
     """
-    Parameters: booleans a,b
+    Parameters: booleans a, b
     Returns:
-        True if exactly one of a,b is True
+        True if exactly one of a or b is True
         False otherwise
     """
     # Start of your code
-    return True
+    return None
     # End of your code
 
 
-assert onlyOneIsTrue(True, False)
-assert onlyOneIsTrue(False, True)
-assert not onlyOneIsTrue(True, True)
-assert not onlyOneIsTrue(False, False)
-print('Tests passed!')
+test.test_equals(only_one_is_true(True, False), True)
+test.test_equals(only_one_is_true(False, True), True)
+test.test_equals(only_one_is_true(True, True), False)
+test.test_equals(only_one_is_true(False, False), False)

@@ -1,8 +1,11 @@
 """
-Define a function printNaturalNumbersUpTo():
-    Parameters: a number
-    Returns: print out each number from 1 to the number (exclusive)
+Define a function print_natural_numbers_up_to():
+    Parameters: an integer
+    Returns: print out all integers from 1 to the integer (exclusive)
 """
+# Start of your code
+
+# End of your code
 
 
 """
@@ -12,4 +15,4 @@ Expected output:
 3
 4
 """
-printNaturalNumbersUpTo(5)
+print_natural_numbers_up_to(5)

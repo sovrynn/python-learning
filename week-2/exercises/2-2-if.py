@@ -1,4 +1,7 @@
-def isPositiveZeroOrNegative(x):
+import util.test as test
+
+
+def sign_of_number(x):
     """
     Parameters: integer x
     Returns:
@@ -7,11 +10,10 @@ def isPositiveZeroOrNegative(x):
         'negative' if x is negative
     """
     # Start of your code
-    return ''
+    return None
     # End of your code
 
 
-assert isPositiveZeroOrNegative(5) == 'positive'
-assert isPositiveZeroOrNegative(0) == 'zero'
-assert isPositiveZeroOrNegative(-1) == 'negative'
-print('Tests passed!')
+test.test_equals(sign_of_number(5), 'positive')
+test.test_equals(sign_of_number(0), 'zero')
+test.test_equals(sign_of_number(-1), 'negative')

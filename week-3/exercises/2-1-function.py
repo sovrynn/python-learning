@@ -1,10 +1,15 @@
-"""
-Define a function sumThree():
-    Parameters: 3 numbers
-    Returns: sum of the 3 numbers
-"""
+import util.test as test
 
 
-assert sumThree(0, 1, 2) == 3
-assert sumThree(1, 2, 3) == 6
-print('Tests passed!')
+"""
+Define a function sum_three():
+    Parameters: 3 integers
+    Returns: sum of the 3 integers
+"""
+# Start of your code
+
+# End of your code
+
+
+test.test_equals(sum_three(0, 1, 2), 3)
+test.test_equals(sum_three(1, 2, 3), 6)

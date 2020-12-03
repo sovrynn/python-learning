@@ -1,12 +1,12 @@
-def printNumbersBetween(lo, hi):
+def print_ints_between(lo, hi):
     """
     Implement this function using a while loop.
-    Parameters: numbers lo, hi
-    Side Effect: print out each number from lo to hi (inclusive)
+    Parameters: integers lo, hi
+    Side Effect: print out each integer from lo to hi (inclusive)
     Returns: N/A
     """
     # Start of your code
-    return 0
+
     # End of your code
 
 
@@ -17,4 +17,4 @@ Expected output:
 5
 6
 """
-printNumbersBetween(3, 6)
+print_ints_between(3, 6)

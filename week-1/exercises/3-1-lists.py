@@ -1,13 +1,15 @@
-def fiveDoubles(x):
+import util.test as test
+
+
+def five_doubles(x):
     """
-    Parameters: number x
+    Parameters: integer x
     Returns: list containing 2x five times
     """
     # Start of your code
-    return []
+    return None
     # End of your code
 
 
-assert fiveDoubles(2) == [4, 4, 4, 4, 4]
-assert fiveDoubles(3) == [6, 6, 6, 6, 6]
-print('Tests passed!')
+test.test_equals(five_doubles(2), [4, 4, 4, 4, 4])
+test.test_equals(five_doubles(3), [6, 6, 6, 6, 6])

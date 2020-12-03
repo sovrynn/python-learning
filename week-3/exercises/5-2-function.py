@@ -1,12 +1,17 @@
-"""
-Define a function listNaturalNumbersUpTo():
-    Parameters: a number
-    Returns: a list containing numbers from 1 to the number (exclusive)
-"""
+import util.test as test
 
 
-assert listNaturalNumbersUpTo(-1) == []
-assert listNaturalNumbersUpTo(0) == []
-assert listNaturalNumbersUpTo(1) == [1]
-assert listNaturalNumbersUpTo(5) == [1, 2, 3, 4, 5]
-print('Tests passed!')
+"""
+Define a function list_natural_numbers_up_to():
+    Parameters: an integer
+    Returns: a list containing all integers from 1 to the integer (exclusive)
+"""
+# Start of your code
+
+# End of your code
+
+
+test.test_equals(list_natural_numbers_up_to(-1), [])
+test.test_equals(list_natural_numbers_up_to(0), [])
+test.test_equals(list_natural_numbers_up_to(2), [1])
+test.test_equals(list_natural_numbers_up_to(5), [1, 2, 3, 4])

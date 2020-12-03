@@ -1,9 +1,14 @@
 """
-Define a function printThreeHops():
+Define a function print_three_hops():
     Implement this function without using a loop.
-    Parameters: a number start, and a number hopDistance
-    Returns: print out start, and three "hops", where a "hop" is calculated by adding hopDistance to the previous number
+    Parameters: two integers start, hopDistance
+    Side Effect: print out start, and three "hops", where a "hop" is calculated by adding
+        hopDistance to the previous number
+    Returns: N/A
 """
+# Start of your code
+
+# End of your code
 
 
 """
@@ -13,4 +18,4 @@ Expected output:
 8
 11
 """
-printThreeHops(2, 3)
+print_three_hops(2, 3)

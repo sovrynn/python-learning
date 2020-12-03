@@ -4,7 +4,7 @@ print('Hello World')
 # You can print any string
 print('Hello Bob')
 
-# Numbers and variables
+# Integers and variables
 x = 4
 banana = 7
 y = x + banana
@@ -20,6 +20,9 @@ a = 'abc'
 b = 'cde'
 c = a + b
 d = 4 * a
+
+# Get the length of a string
+aLen = len(a)
 
 # Indexing strings
 e = a[0]  # First character of a

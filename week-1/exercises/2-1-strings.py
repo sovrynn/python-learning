@@ -1,13 +1,16 @@
-def twoS1fourS2(s1, s2):
+import util.test as test
+
+
+def two_s1_four_s2(s1, s2):
     """
-    Parameters: two strings s1 and s2
-    Returns: a string that has two copies of s1 followed by four copies of s2
+    Parameters: strings s1, s2
+    Returns:
+        a string formed by concatenating two copies of s1 and four copies of s2
     """
     # Start of your code
-    return ''
+    return None
     # End of your code
 
 
-assert twoS1fourS2('a', 'b') == 'aabbbb'
-assert twoS1fourS2('abc', 'xyz') == 'abcabcxyzxyzxyzxyz'
-print('Tests passed!')
+test.test_equals(two_s1_four_s2('a', 'b'), 'aabbbb')
+test.test_equals(two_s1_four_s2('12', 'xy'), '1212xyxyxyxy')

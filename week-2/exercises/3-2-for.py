@@ -1,14 +1,16 @@
-def sumOfNumbers(nums):
+import util.test as test
+
+
+def sum_of_ints(nums):
     """
-    Parameters: list of numbers nums
-    Returns: sum of the numbers in nums
+    Parameters: list of integers nums
+    Returns: sum of the integers in nums
     """
     # Start of your code
-    return 0
+    return None
     # End of your code
 
 
-assert sumOfNumbers([]) == 0
-assert sumOfNumbers([0]) == 0
-assert sumOfNumbers([1, 2, 3]) == 6
-print('Tests passed!')
+test.test_equals(sum_of_ints([]), 0)
+test.test_equals(sum_of_ints([1]), 1)
+test.test_equals(sum_of_ints([1, 2, 3]), 6)

@@ -1,7 +1,7 @@
-def printNumbersInList(nums):
+def print_ints_in_list(nums):
     """
-    Parameters: list of numbers nums
-    Side Effect: prints out each number in nums on its own line
+    Parameters: list of integers nums
+    Side Effect: prints out each integer in nums on its own line
     Returns: N/A
     """
     # Start of your code
@@ -17,4 +17,4 @@ Expected output:
 4
 5
 """
-printNumbersInList([1, 2, 3, 4, 5])
+print_ints_in_list([1, 2, 3, 4, 5])

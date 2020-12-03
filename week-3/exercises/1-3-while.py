@@ -1,14 +1,16 @@
-def sumOfNumbersBetween(lo, hi):
+import util.test as test
+
+
+def sum_of_ints_between(lo, hi):
     """
     Implement this function using a while loop.
-    Parameters: numbers lo, hi
-    Returns: sum of the numbers from lo to hi (inclusive)
+    Parameters: integers lo, hi
+    Returns: sum of the integers from lo to hi (inclusive)
     """
     # Start of your code
-    return 0
+    return None
     # End of your code
 
 
-assert sumOfNumbersBetween(0, 0) == 0
-assert sumOfNumbersBetween(0, 5) == 15
-print('Tests passed!')
+test.test_equals(sum_of_ints_between(1, 2), 3)
+test.test_equals(sum_of_ints_between(1, 5), 15)

@@ -1,9 +1,14 @@
 """
-Define a function printSevenHops():
+Define a function print_seven_hops():
     Implement this function using a loop.
-    Parameters: a number start, and a number hopDistance
-    Returns: print out start, and seven "hops", where a "hop" is calculated by adding hopDistance to the previous number
+    Parameters: two integers start, hopDistance
+    Side Effect: print out start, and seven "hops", where a "hop" is calculated by adding
+        hopDistance to the previous number
+    Returns: N/A
 """
+# Start of your code
+
+# End of your code
 
 
 """
@@ -17,4 +22,4 @@ Expected output:
 20
 23
 """
-printSevenHops(2, 3)
+print_seven_hops(2, 3)

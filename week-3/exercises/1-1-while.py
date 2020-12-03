@@ -1,7 +1,7 @@
-def printHelloWorld(x):
+def print_hello_world(x):
     """
     Implement this function by using a while loop and decrementing x until x reaches 0.
-    Parameters: number x
+    Parameters: integer x
     Side Effect: print out 'Hello World' x times
     Returns: N/A
     """
@@ -16,4 +16,4 @@ Hello World
 Hello World
 Hello World
 """
-printHelloWorld(3)
+print_hello_world(3)

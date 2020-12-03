@@ -1,4 +1,4 @@
-def printCharacters(s):
+def print_characters(s):
     """
     Implement this function using a while loop.
     Parameters: string s
@@ -18,4 +18,4 @@ p
 l
 e
 """
-printCharacters('apple')
+print_characters('apple')

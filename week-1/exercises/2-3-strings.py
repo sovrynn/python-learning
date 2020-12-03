@@ -1,14 +1,16 @@
-def swapFirstAndLast(s):
+import util.test as test
+
+
+def swap_first_and_last(s):
     """
     Parameters: string s
     Returns: a string formed by swapping the first and last characters of s
     """
     # Start of your code
-    return ''
+    return None
     # End of your code
 
 
-assert swapFirstAndLast('ab') == 'ba'
-assert swapFirstAndLast('abc') == 'cba'
-assert swapFirstAndLast('abcde') == 'ebcda'
-print('Tests passed!')
+test.test_equals(swap_first_and_last('ab'), 'ba')
+test.test_equals(swap_first_and_last('abc'), 'cba')
+test.test_equals(swap_first_and_last('abcde'), 'ebcda')

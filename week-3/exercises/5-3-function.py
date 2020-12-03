@@ -1,8 +1,11 @@
 """
-Define a function printEvenNaturalNumbersUpTo():
-    Parameters: a number
-    Returns: print out all even natural numbers from 2 to the number (exclusive)
+Define a function print_even_natural_numbers_up_to():
+    Parameters: an integer
+    Returns: print out all even integers from 2 to the integer (exclusive)
 """
+# Start of your code
+
+# End of your code
 
 
 """
@@ -12,4 +15,4 @@ Expected output:
 6
 8
 """
-printEvenNaturalNumbersUpTo(9)
+print_even_natural_numbers_up_to(10)

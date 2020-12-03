@@ -1,14 +1,16 @@
-def isPositive(x):
+import util.test as test
+
+
+def is_positive(x):
     """
     Parameters: integer x
     Returns: True if x is positive, False otherwise
     """
     # Start of your code
-    return True
+    return None
     # End of your code
 
 
-assert isPositive(5)
-assert not isPositive(0)
-assert not isPositive(-1)
-print('Tests passed!')
+test.test_equals(is_positive(5), True)
+test.test_equals(is_positive(0), False)
+test.test_equals(is_positive(-1), False)
