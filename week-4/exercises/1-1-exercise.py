@@ -1,7 +1,8 @@
 """
 Define a function print_natural_numbers_up_to():
     Parameters: an integer
-    Returns: print out all integers from 1 to the integer (exclusive)
+    Side Effect: print out all integers from 1 to the integer (exclusive)
+    Returns: N/A
 """
 # Start of your code
 

@@ -4,8 +4,7 @@ import util.test as test
 """
 Define a function string_to_char_list():
     Parameters: a string
-    Returns: a list containing the characters of the string, in the same order
-        that they appear in the string
+    Returns: a list containing the characters of the string
 """
 # Start of your code
 
