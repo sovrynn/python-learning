@@ -13,3 +13,4 @@ Define a function filter_positive():
 
 test.test_equals(filter_positive([]), [])
 test.test_equals(filter_positive([-1, 0, 1, 2]), [1, 2])
+test.test_equals(filter_positive([1]), [1])
