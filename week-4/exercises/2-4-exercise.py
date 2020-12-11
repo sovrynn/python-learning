@@ -13,3 +13,4 @@ Define a function filter_greater_than():
 
 
 test.test_equals(filter_greater_than([-1, 0, 5, 7, 10], 6), [7, 10])
+test.test_equals(filter_greater_than([1, 2], 0), [1, 2])

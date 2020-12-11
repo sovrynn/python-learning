@@ -2,4 +2,4 @@
 
 Cover more challenging exercises:
 - multiple abstract parameters to functions
-- multiple functions
+- combining loops and if statements

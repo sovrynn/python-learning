@@ -2,8 +2,8 @@
 Define a function print_whole_numbers_up_to():
     Parameters: an integer
     Side Effect:
-        Prints the whole numbers from 0 to the integer (inclusive) on a single line, separated by spaces.
-        If the given integer is negative, print 'No numbers.'
+        Prints the whole numbers from 0 to the integer (exclusive) on a single line, with a dash after each number,
+            including the last number.
     Returns: N/A
 """
 # Start of your code
@@ -13,6 +13,6 @@ Define a function print_whole_numbers_up_to():
 
 """
 Expected output:
-0 1 2 3 4 5
+0-1-2-3-4-
 """
 print_whole_numbers_up_to(5)

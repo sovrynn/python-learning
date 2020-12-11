@@ -13,3 +13,4 @@ Define a function filter_longer_than():
 
 
 test.test_equals(filter_longer_than(["", "1", "12", "123", "1234"], 3), ["1234"])
+test.test_equals(filter_longer_than(["ab", "123"], 1), ["ab", "123"])
