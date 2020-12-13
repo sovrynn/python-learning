@@ -1,15 +1,20 @@
-import util.test as test
-
-
-def sum_of_ints_between(lo, hi):
+def print_multiples_of_seven(x):
     """
-    Parameters: integers lo, hi
-    Returns: sum of the integers from lo to hi (inclusive)
+    Parameters: integer x
+    Side Effect: print out the first x multiples of 7
+    Returns: N/A
     """
     # Start of your code
-    return None
+
     # End of your code
 
 
-test.test_equals(sum_of_ints_between(1, 2), 3)
-test.test_equals(sum_of_ints_between(1, 5), 15)
+"""
+Expected output:
+7
+14
+21
+28
+35
+"""
+print_multiples_of_seven(5)

@@ -2,7 +2,6 @@
 
 Topics to cover:
 - comments, print()
-- numerical operators
-- variables
-- strings
-- lists
+- variables, numbers, and numerical operators
+- strings, indexing, and substrings
+- lists, indexing, and slicing

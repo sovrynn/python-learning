@@ -1,7 +1,7 @@
-def print_ints_between(lo, hi):
+def print_hello_world(x):
     """
-    Parameters: integers lo, hi
-    Side Effect: print out each integer from lo to hi (inclusive) on its own line
+    Parameters: integer x
+    Side Effect: print out 'Hello World' x times
     Returns: N/A
     """
     # Start of your code
@@ -11,10 +11,8 @@ def print_ints_between(lo, hi):
 
 """
 Expected output:
-1
-2
-3
-4
-5
+Hello World
+Hello World
+Hello World
 """
-print_ints_between(1, 5)
+print_hello_world(3)

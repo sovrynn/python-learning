@@ -1,7 +1,7 @@
 def print_ints_in_list(nums):
     """
     Parameters: list of integers nums
-    Side Effect: prints out each integer in nums on its own line
+    Side Effect: prints out each integer in nums
     Returns: N/A
     """
     # Start of your code

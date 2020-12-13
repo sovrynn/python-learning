@@ -2,6 +2,7 @@
 print(True and False)
 print(True or False)
 print(not True)
+print(True == False)
 
 # Numerical logical operators
 print(5 > 0)
@@ -20,7 +21,7 @@ else:
 y = 5
 if y > 6:
     print('y greater than 6')
-if y < 6:
+elif y < 6:
     print('y less than 6')
 else:
     print('y equals 6')

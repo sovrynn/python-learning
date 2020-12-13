@@ -1,11 +1,11 @@
 import util.test as test
 
 
-def pairs_are_equal(a, b, c, d):
+def a_true_b_false(a, b):
     """
-    Parameters: booleans a, b, c, d
+    Parameters: booleans a, b
     Returns:
-        True if a, b are equal and c, d are equal
+        True if a is True and b is False
         False otherwise
     """
     # Start of your code
@@ -13,11 +13,7 @@ def pairs_are_equal(a, b, c, d):
     # End of your code
 
 
-test.test_equals(pairs_are_equal(True, True, False, False), True)
-test.test_equals(pairs_are_equal(True, True, True, True), True)
-test.test_equals(pairs_are_equal(False, False, False, False), True)
-test.test_equals(pairs_are_equal(False, False, True, True), True)
-test.test_equals(pairs_are_equal(True, False, True, True), False)
-test.test_equals(pairs_are_equal(False, True, True, True), False)
-test.test_equals(pairs_are_equal(False, False, True, False), False)
-test.test_equals(pairs_are_equal(False, False, False, True), False)
+test.test_equals(a_true_b_false(True, False), True)
+test.test_equals(a_true_b_false(False, True), False)
+test.test_equals(a_true_b_false(True, True), False)
+test.test_equals(a_true_b_false(False, False), False)

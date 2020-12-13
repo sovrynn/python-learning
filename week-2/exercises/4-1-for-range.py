@@ -1,7 +1,7 @@
-def print_hello_world(x):
+def print_whole_numbers_up_to(x):
     """
     Parameters: integer x
-    Side Effect: print out 'Hello World' x times
+    Side Effect: print each whole number from 0 to x (inclusive)
     Returns: N/A
     """
     # Start of your code
@@ -11,8 +11,11 @@ def print_hello_world(x):
 
 """
 Expected output:
-Hello World
-Hello World
-Hello World
+0
+1
+2
+3
+4
+5
 """
-print_hello_world(3)
+print_hello_world(5)
