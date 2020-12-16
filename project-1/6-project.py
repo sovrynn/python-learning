@@ -1,4 +1,4 @@
-def main():
+def rock_paper_scissors_game():
     print_welcome_message()
     user_choice = get_user_choice()
     computer_choice = get_computer_choice()
@@ -17,7 +17,7 @@ Define a function print_welcome_message():
 Define a function get_user_choice():
     Parameters: N/A
     Side Effect: Asks user for choice of 'r'/'p'/'s'
-    Returns: user input
+    Returns: user's choice
 """
 
 
@@ -41,4 +41,4 @@ Define a function print_ending_message():
 
 
 # Play the game
-main()
+rock_paper_scissors_game()
