@@ -12,4 +12,4 @@ Define a function reverse_string():
 
 
 test.test_equals(reverse_string("abc"), "cba")
-test.test_equals(reverse_string("1234"), "1234")
+test.test_equals(reverse_string("1234"), "4321")
