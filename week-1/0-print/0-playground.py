@@ -7,9 +7,8 @@ It spans multiple lines.
 """
 
 # We can print strings to the console.
-print('Hello World')
-
-# We can print different strings.
-print('This is another string!')
+# Strings have single or double quotes around them.
+print('Here is a string.')
+print("Here is another string!")
 
 # Try running this file!

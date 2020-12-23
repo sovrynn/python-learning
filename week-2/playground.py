@@ -3,6 +3,7 @@ print(True and False)
 print(True or False)
 print(not True)
 print(True == False)
+print(True != False)
 
 # Numerical logical operators
 print(5 > 0)

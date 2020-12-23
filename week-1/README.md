@@ -1,7 +1,8 @@
 # Day 1
 
 Topics to cover:
-- comments, print()
+- comments, print(), strings
 - variables, numbers, and numerical operators
-- strings, indexing, and substrings
-- lists, indexing, and slicing
+- functions, difference between print() and return
+- indexing strings and substrings
+- lists, indexing lists, and slicing
