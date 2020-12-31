@@ -1,7 +1,7 @@
 # Day 2
 
 Topics to cover:
-- Logical operators
+- Booleans, Logical operators
 - Control flow
     - if statements
     - for loops (iteration)

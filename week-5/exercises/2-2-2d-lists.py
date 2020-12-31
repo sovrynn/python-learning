@@ -2,14 +2,14 @@ import util.test as test
 
 
 """
-Define a function first_column():
+Define a function sum_2d_list():
     Parameters: a 2D list
-    Returns: a list containing the first element in each row of the 2D list
+    Returns: sum of all the elements in the 2D list
 """
 # Start of your code
 
 # End of your code
 
 
-test.test_equals(first_column([[1], [2], [3]]), [1, 2, 3])
-test.test_equals(first_column([[1], [2, 3]]), [1, 2])
+test.test_equals(sum_2d_list([[1, 2], [3, 4]]), 10)
+test.test_equals(sum_2d_list([[1], [2, 3]]), 6)

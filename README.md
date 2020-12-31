@@ -7,8 +7,12 @@ Complete the following steps:
     - Problem running Pycharm on Windows: https://stackoverflow.com/questions/40204189/error-launching-idea-failed-to-load-jvm-dll-c-program-files-java-jdk1-8-0-112
     - Might have to download an old version of PyCharm if computer is 32-bit
 
+#### Future topics:
+- tuples, dicts
+
 #### TODO:
-- Restructure entire course content
-- More incremental playgrounds that are each grouped with a small bunch of exercises
-- More cohesive and incremental exercises
-- More difficult and less incremental exercises
+- Restructure the first week. Cover ints/strings, then functions, then indexing strings/lists
+    - don't use concepts that haven't been covered
+- Smaller playgrounds that are each grouped with a small bunch of exercises
+- In general, make exercises more cohesive/incremental
+- But, also have exercises without any build-up to them. Later weeks
