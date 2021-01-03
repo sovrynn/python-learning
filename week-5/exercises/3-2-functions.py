@@ -1,6 +1,3 @@
-import util.test as test
-
-
 def mystery_func(num):
     return num * 7
 
