@@ -14,3 +14,5 @@ Define a function num_elements():
 
 test.test_equals(num_elements([["a", "b"], ["c", "d"]]), 4)
 test.test_equals(num_elements([[1, 2], ["a", "b", 3]]), 5)
+test.test_equals(num_elements([[1]]), 1)
+test.test_equals(num_elements([[1], [2, 3], [4, 5, 6]]), 6)

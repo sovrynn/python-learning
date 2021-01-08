@@ -7,9 +7,6 @@ Complete the following steps:
     - Problem running Pycharm on Windows: https://stackoverflow.com/questions/40204189/error-launching-idea-failed-to-load-jvm-dll-c-program-files-java-jdk1-8-0-112
     - Might have to download an old version of PyCharm if computer is 32-bit
 
-#### Future topics:
-- tuples, dicts
-
 #### TODO:
 - Restructure the first week. Cover ints/strings, then functions, then indexing strings/lists
     - don't use concepts that haven't been covered

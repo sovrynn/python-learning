@@ -13,3 +13,5 @@ Define a function len_longest_row():
 
 test.test_equals(len_longest_row([["a"], ["c", "d"]]), 2)
 test.test_equals(len_longest_row([["a", "b", 3], [1, 2]]), 3)
+test.test_equals(len_longest_row([[1, 2]]), 2)
+test.test_equals(len_longest_row([[1], [1, 2], [1, 2, 3]]), 3)
