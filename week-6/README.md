@@ -2,5 +2,5 @@
 
 New data structures:
 - sets
+- dictionaries
 - tuples
-- dicts

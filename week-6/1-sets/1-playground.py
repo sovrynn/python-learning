@@ -18,3 +18,7 @@ print(my_set)
 
 # number of elements in a set
 len(my_set)
+
+# iterating over a set
+for elem in my_set:
+    print(elem)
