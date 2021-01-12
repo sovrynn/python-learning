@@ -36,4 +36,4 @@ test.test_equals(exists_triple([[0, 0, 1], [0, 0, 1], [1, 1, 1]]), True)
 test.test_equals(exists_triple([[0, 0, 1], [0, 0, 1], [1, 1, 0]]), True)
 
 # No triple exists, tricky
-test.test_equals(exists_triple([[1, 1, 0], [0, 0, 1], [1, 1, 0]]), True)
+test.test_equals(exists_triple([[1, 1, 0], [0, 0, 1], [1, 1, 0]]), False)
