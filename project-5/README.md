@@ -1,5 +1,5 @@
 # Project 5 - Mad Libs
 
 Things to learn:
-- string parsing
+- string splitting w/ multiple separators
 - reading/writing files
