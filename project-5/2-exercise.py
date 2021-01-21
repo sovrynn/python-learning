@@ -12,4 +12,4 @@ Define a function split_into_words():
 
 
 test_str = 'this., is., the., test., string'
-test.test_equals(split_into_words(test_str), ['this', 'is', 'test', 'string'])
+test.test_equals(split_into_words(test_str), ['this', 'is', 'the', 'test', 'string'])
