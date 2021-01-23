@@ -31,7 +31,7 @@ g = a[-1]  # Does this throw an error?
 
 # Substrings
 h = a[1:-1]
-print(e)
+print(h)
 
 # Lists
 numbers = [1, 2, 3]
