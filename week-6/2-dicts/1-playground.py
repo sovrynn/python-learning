@@ -16,3 +16,6 @@ len(my_dict)
 # iterating over key-value pairs in a dict
 for key in my_dict:
     print(my_dict[key])
+
+# How to check if a key exists in a dict
+4 in my_dict
