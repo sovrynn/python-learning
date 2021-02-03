@@ -5,7 +5,7 @@ import util.test as test
 Define a function get_counts():
     Parameters: a list of integers
     Returns: a dict which contains key-value pairs such that:
-        a key is a number in the list, and its value is the number of times that number occured in the list
+        a key is a number in the list, and its value is the number of times that number occurred in the list
 """
 
 
