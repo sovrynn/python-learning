@@ -9,7 +9,7 @@ Define a function get_counts():
 """
 
 
-test.test_equals(get_counts([]), {})
+test.test_equals(get_counts([]), dict())
 test.test_equals(get_counts([2]), {2: 1})
 test.test_equals(get_counts([3, 6]), {3: 1, 6: 1})
 test.test_equals(get_counts([2, 2, 4, 4, 4, 6]), {2: 2, 4: 3, 6: 1})
