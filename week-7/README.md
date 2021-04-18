@@ -17,16 +17,6 @@
 - https://leetcode.com/problems/sort-array-by-parity-ii/
 - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
-## Group 3
-- https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
-- https://leetcode.com/problems/count-good-triplets/
-
-# Leetcode String Problems
-
-## Group 1
-- https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
-- https://leetcode.com/problems/determine-if-string-halves-are-alike/
-- https://leetcode.com/problems/count-the-number-of-consistent-strings/
-- https://leetcode.com/problems/truncate-sentence/
-- https://leetcode.com/problems/determine-color-of-a-chessboard-square/
-- https://leetcode.com/problems/reverse-string/
+## Code Review
+1. https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+2. https://leetcode.com/problems/count-good-triplets/
