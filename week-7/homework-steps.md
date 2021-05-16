@@ -4,6 +4,6 @@
 
 2. Describe the time complexity - constant, linear, quadratic, etc
 
-2. List all the variables/data structures that are needed
+3. List all the variables/data structures that are needed
 
-3. Write source code
+4. Write source code
