@@ -1,4 +1,4 @@
-# Leetcode Array Problems
+# Week 7 - Leetcode Array Problems
 
 ## Group 1
 - https://leetcode.com/problems/running-sum-of-1d-array/

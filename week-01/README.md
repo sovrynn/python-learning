@@ -1,4 +1,4 @@
-# Day 1
+# Week 1 - Basics
 
 Topics to cover:
 - comments, print(), strings

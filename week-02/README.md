@@ -1,4 +1,4 @@
-# Day 2
+# Week 2 - Control flow
 
 Topics to cover:
 - Booleans, Logical operators

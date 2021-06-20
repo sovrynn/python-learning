@@ -1,4 +1,4 @@
-# Leetcode String Problems
+# Week 8 - Leetcode String Problems
 
 ## Group 1
 - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/

@@ -1,4 +1,4 @@
-# Week 6
+# Week 6 - Basic data structures
 
 New data structures:
 - sets
