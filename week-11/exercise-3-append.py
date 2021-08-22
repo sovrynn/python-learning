@@ -1,4 +1,4 @@
-from linked_list_utils import *
+from linked_list_utils import Node, construct_linked_list, test_linked_list_equals
 import util.test as test
 
 

@@ -1,4 +1,4 @@
-from linked_list_utils import *
+from linked_list_utils import Node, construct_linked_list
 
 """
 Define a function print_linked_list():
@@ -7,7 +7,8 @@ Define a function print_linked_list():
     Returns: N/A
 """
 # Start of your code
-
+def print_linked_list(a):
+    print('hurdur')
 # End of your code
 
 
