@@ -17,11 +17,11 @@ list = construct_linked_list([1, 2])
 linked_list_delete(list, 2)
 test.test_equals(test_linked_list_equals(list, [1]), True)
 
-list = construct_linked_list([1, 2])
-linked_list_delete(list, 1)
-test.test_equals(test_linked_list_equals(list, [2]), True)
-
 list = construct_linked_list([1, 3, 5])
 linked_list_delete(list, 3)
 test.test_equals(test_linked_list_equals(list, [1, 5]), True)
+
+list = construct_linked_list([1, 3, 5])
+linked_list_delete(list, 5)
+test.test_equals(test_linked_list_equals(list, [1, 3]), True)
 
