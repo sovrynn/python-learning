@@ -13,5 +13,5 @@ TODO:
 
 # Leetcode Linked-list Problems
 
-https://leetcode.com/problems/middle-of-the-linked-list/
-https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+- https://leetcode.com/problems/middle-of-the-linked-list/
+- https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
