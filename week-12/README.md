@@ -11,3 +11,10 @@ Round 2:
 - https://leetcode.com/problems/majority-element/
 - https://leetcode.com/problems/first-unique-character-in-a-string/
 - https://leetcode.com/problems/valid-parentheses/
+
+# Problem Solving Process
+
+1. Write down the problem in your own words, with at least one example.
+2. Come up with a written solution.
+3. Write pseudocode
+4. Figure out the time complexity of your solution
