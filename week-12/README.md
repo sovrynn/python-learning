@@ -10,7 +10,6 @@ Round 2:
 - https://leetcode.com/problems/add-digits/
 - https://leetcode.com/problems/majority-element/
 - https://leetcode.com/problems/first-unique-character-in-a-string/
-- https://leetcode.com/problems/valid-parentheses/
 
 # Problem Solving Process
 
