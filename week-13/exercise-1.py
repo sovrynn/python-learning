@@ -11,14 +11,14 @@ Define a function is_matching_parentheses():
 # End of your code
 
 
-test.test_equals(matching_parentheses(')('), False)
-test.test_equals(matching_parentheses('()('), False)
-test.test_equals(matching_parentheses('('), False)
-test.test_equals(matching_parentheses('())('), False)
+test.test_equals(is_matching_parentheses(')('), False)
+test.test_equals(is_matching_parentheses('()('), False)
+test.test_equals(is_matching_parentheses('('), False)
+test.test_equals(is_matching_parentheses('())('), False)
 
-test.test_equals(matching_parentheses(''), True)
-test.test_equals(matching_parentheses('()'), True)
-test.test_equals(matching_parentheses('(()())'), True)
-test.test_equals(matching_parentheses('()()'), True)
-test.test_equals(matching_parentheses('(())'), True)
+test.test_equals(is_matching_parentheses(''), True)
+test.test_equals(is_matching_parentheses('()'), True)
+test.test_equals(is_matching_parentheses('(()())'), True)
+test.test_equals(is_matching_parentheses('()()'), True)
+test.test_equals(is_matching_parentheses('(())'), True)
 
