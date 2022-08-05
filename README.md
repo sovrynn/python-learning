@@ -1,3 +1,5 @@
+A Python learning course I've created that consists of exercises and projects.
+
 # Setting Up
 
 Complete the following steps:

@@ -1,2 +1,5 @@
 # PyCharm files
 .idea
+
+# OS Files
+.DS_Store
